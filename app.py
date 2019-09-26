@@ -6,8 +6,8 @@ from dash.dependencies import Input, Output, State
 
 ########### Define your variables ######
 
-myheading1='How to use callbacks'
-tabtitle = 'xkcd'
+myheading1='boring vacation pictures'
+tabtitle = 'vacation'
 list_of_options=['bus', 'boat', 'market', 'sunset']
 list_of_images=['bus.JPG', 'boat.JPG', 'market.JPG', 'sunset.JPG', 'food.JPG']
 sourceurl = 'https://xkcd.com/'
